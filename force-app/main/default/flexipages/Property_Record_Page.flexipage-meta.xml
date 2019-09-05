@@ -148,13 +148,6 @@
         <componentInstances>
             <componentName>PictureCarousel</componentName>
         </componentInstances>
-        <componentInstances>
-            <componentInstanceProperties>
-                <name>searchCriteria</name>
-                <value>Price</value>
-            </componentInstanceProperties>
-            <componentName>SimilarProperties</componentName>
-        </componentInstances>
         <mode>Replace</mode>
         <name>sidebar</name>
         <type>Region</type>
