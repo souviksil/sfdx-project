@@ -58,9 +58,6 @@
         <type>Facet</type>
     </flexiPageRegions>
     <flexiPageRegions>
-        <componentInstances>
-            <componentName>MortgageCalcWithAmortization</componentName>
-        </componentInstances>
         <name>facet-10e2e3cd-2f87-49df-8e5d-58d632b4c7d3</name>
         <type>Facet</type>
     </flexiPageRegions>
