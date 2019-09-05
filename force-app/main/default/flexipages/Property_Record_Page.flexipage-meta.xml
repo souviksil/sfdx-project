@@ -146,7 +146,7 @@
             <componentName>RecordMap</componentName>
         </componentInstances>
         <componentInstances>
-            <componentName>PropertyCarousel</componentName>
+            <componentName>PictureCarousel</componentName>
         </componentInstances>
         <componentInstances>
             <componentInstanceProperties>
