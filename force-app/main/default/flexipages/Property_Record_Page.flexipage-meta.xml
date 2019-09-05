@@ -142,8 +142,9 @@
             </componentInstanceProperties>
             <componentName>RecordMap</componentName>
         </componentInstances>
-        <componentInstances>
-            <componentName>PictureCarousel</componentName>
+
+		  <componentInstances>
+            <componentName>PictureGalleryCard</componentName>
         </componentInstances>
         <mode>Replace</mode>
         <name>sidebar</name>
